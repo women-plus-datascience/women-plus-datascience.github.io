@@ -355,3 +355,13 @@ h2 {
   position: relative;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
 }
+
+.schedule-title {
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0 .5rem;
+  position: relative;
+  font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+}
