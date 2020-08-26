@@ -3,7 +3,7 @@ main:
     url: /
   - name: Poster & Talk Guidelines
     url: /poster-talk-guidelines/
-  - name: Sponsors
-    url: /sponsors/
-  - name: Other Information
-    url: /other-info/
+#   - name: Sponsors
+#     url: /sponsors/
+#   - name: Other Information
+#     url: /other-info/
