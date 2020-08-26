@@ -361,7 +361,7 @@ h2 {
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
-  padding: 0 .5rem;
+  padding: 0 .5rem 1rem .5rem;
   position: relative;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
 }
