@@ -365,3 +365,9 @@ h2 {
   position: relative;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
 }
+
+.section.section-5 {
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
