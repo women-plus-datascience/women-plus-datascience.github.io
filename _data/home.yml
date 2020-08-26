@@ -1,7 +1,7 @@
 # leave the value empty to diable it
 
 header:
-  announcement: "Due to the COVID-19 epidemic, this event will be rescheduled to September, 2020.&nbsp; More information coming soon."
+  announcement: "All W+DS events will be virtual due to the COVID-19 epidemic."
   logo: "/images/msu-helmet-green.png"
   smalllogo: "/images/um.png"
   title: "<span class='plus-sign'>Women+</span><br>Data Science"
@@ -9,15 +9,15 @@ header:
 # info
 section1:
   date: "Fall 2020"
-  time: "Monthly Meetings"
+  time: "Monthly Meetups"
   location: "Virtual, Hosted over Zoom"
-  description1: "Michigan State University &amp; University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!"
+  description1: "Michigan State University &amp; University of Michigan invite you to their joint monthly meetup & webinar series for Fall 2020!"
   event_title: "EVENT REGISTRATION"
-  event_url: "https://docs.google.com/forms/d/e/1FAIpQLSfwwdGOItncuSTJqOVBnnlvF6FgyR4Lhiyc4A6HTRorYMnPUg/viewform"
+  event_url: "https://forms.gle/4RPELwFyeeHgJKUp6"
 
 # September Schedule
 section2:
-  title: "September<br>Schedule"
+  title: "September"
   details:
     - time: "September XX<br>9:15 — 10 AM"
       event: "Keynote speaker: Person Name"
@@ -30,7 +30,7 @@ section2:
 
 # October Schedule
 section3:
-  title: "October<br>Schedule"
+  title: "October"
   details:
     - time: "October XX<br>9:15 — 10 AM"
       event: "Keynote speaker: Person Name"
@@ -43,7 +43,7 @@ section3:
       
 # November Schedule
 section4:
-  title: "November<br>Schedule"
+  title: "November"
   details:
     - time: "November XX<br>9:15 — 10 AM"
       event: "Keynote speaker: Person Name"
