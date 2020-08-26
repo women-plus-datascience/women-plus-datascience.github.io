@@ -345,3 +345,13 @@ h2 {
 .schedule .row:first-of-type {
     background-color: #e9f4ff;
 }
+
+
+.schedule-subtitle {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0 .5rem;
+  position: relative;
+  font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+}
