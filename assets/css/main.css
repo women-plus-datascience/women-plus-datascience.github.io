@@ -91,7 +91,7 @@ nav ul li a.is-active {
   position: absolute;
   display: flex;
   flex-direction: row;
-  left: -6rem;
+  left: -7rem;
   height: 100%;
   top: 0;
   justify-content: center;
