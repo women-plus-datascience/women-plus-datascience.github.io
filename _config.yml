@@ -1,10 +1,10 @@
 # Site
-title: "ohgodno"
-description: "ohgodno"
+title: "W+DS"
+description: "Women+ Data Science"
 favicon: "images/favicon.ico"
 baseurl: ""
 disqus: ""
-email: "email@gmail.com"
+email: "women.plus.datascience@gmail.com"
 
 include: ["_pages"]
 permalink: /:year/:month/:day/:title/
