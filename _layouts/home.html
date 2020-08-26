@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% assign section2 = site.data.home.section2 %}
+{% assign section3 = site.data.home.section3 %}
+{% assign section4 = site.data.home.section4 %}
+<div class="section-parent">
+	<div class="section section-2"><span class="subtitle">{{ section2.title }}</span>
+		<div class="schedule">
+			{% for item in section2.details %}
+			<div class="row">
+				<span class="time">{{ item.time }}</span><span class="event">{{ item.event }} {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="registration">{% endif %} {% if item.aname %} {{ item.aname }} {% endif %}</a>{% if item.aposition %}{{ item.aposition }}{% endif %} </span>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="section section3"><span class="subtitle">{{ section3.title }}</span>
+		<div class="schedule">
+			{% for item in section3.details %}
+			<div class="row">
+				<span class="time">{{ item.time }}</span><span class="event">{{ item.event }} {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="registration">{% endif %} {% if item.aname %} {{ item.aname }} {% endif %}</a>{% if item.aposition %}{{ item.aposition }}{% endif %} </span>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="section section4"><span class="subtitle">{{ section4.title }}</span>
+		<div class="schedule">
+			{% for item in section4.details %}
+			<div class="row">
+				<span class="time">{{ item.time }}</span><span class="event">{{ item.event }} {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="registration">{% endif %} {% if item.aname %} {{ item.aname }} {% endif %}</a>{% if item.aposition %}{{ item.aposition }}{% endif %} </span>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>

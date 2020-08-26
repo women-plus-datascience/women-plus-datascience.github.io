@@ -1,0 +1,80 @@
+# leave the value empty to diable it
+
+header:
+  announcement: "Due to the COVID-19 epidemic, this event will be rescheduled to September, 2020.&nbsp; More information coming soon."
+  logo: "/images/msu-helmet-green.png"
+  smalllogo: "/images/um.png"
+  title: "<span class='plus-sign'>Women+</span><br>Data Science"
+
+# info
+section1:
+  date: "Fall 2020"
+  time: "Monthly Meetings"
+  location: "Virtual, Hosted over Zoom"
+  description1: "Michigan State University &amp; University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!"
+  event_title: "EVENT REGISTRATION"
+  event_url: "https://docs.google.com/forms/d/e/1FAIpQLSfwwdGOItncuSTJqOVBnnlvF6FgyR4Lhiyc4A6HTRorYMnPUg/viewform"
+
+# September Schedule
+section2:
+  title: "September<br>Schedule"
+  details:
+    - time: "September XX<br>9:15 — 10 AM"
+      event: "Keynote speaker: Person Name"
+    - time: "September XX <br>12 PM - 1 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "September XX <br>2 PM - 3 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "September XX <br>1 PM - 2 PM"
+      event: "Lightning Talk: Person Name"
+
+# October Schedule
+section3:
+  title: "October<br>Schedule"
+  details:
+    - time: "October XX<br>9:15 — 10 AM"
+      event: "Keynote speaker: Person Name"
+    - time: "October XX <br>12 PM - 1 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "October XX <br>2 PM - 3 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "October XX <br>1 PM - 2 PM"
+      event: "Lightning Talk: Person Name"
+      
+# November Schedule
+section4:
+  title: "November<br>Schedule"
+  details:
+    - time: "November XX<br>9:15 — 10 AM"
+      event: "Keynote speaker: Person Name"
+    - time: "November XX <br>12 PM - 1 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "November XX <br>2 PM - 3 PM"
+      event: "Lightning Talk: Person Name"
+    - time: "November XX <br>1 PM - 2 PM"
+      event: "Lightning Talk: Person Name"
+
+section5:
+  organizer:
+    title: "Organizers"
+  organizeritem:
+    - name: "R-Ladies East Lansing ,"
+      url: "https://rladies-eastlansing.github.io/"
+    - name: "Michigan Institute for Data Science"
+      url: "https://midas.umich.edu"
+    - name: "Camille Archer (RLEL, MSU), Janani Ravi (RLEL, MSU); Jing Liu (MIDAS, UM)"
+      url: "#"
+  committee:
+    title: "Program Committee"
+  committeeitem:
+    - name: "Liz Munch (MSU), Parisa Kordjamshidi (MSU), Dola Pathak (MSU)"
+    - name: "Marcy Harris (UM), Margaret Hedstrom (UM)."
+  partnerImage:
+    - name: "RLEL"
+      image: "/images/rlel-sq-bord.png"
+    - name: "MIDAS"
+      image: "/images/midas.png"
+    - name: "MSU"
+      image: "/images/msu-helmet-green.png"
+
+

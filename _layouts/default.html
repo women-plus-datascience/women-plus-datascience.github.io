@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include header.html %}
+
+	<body>
+		{% assign index = site.data.home %}
+		{% assign header = site.data.home.header %}
+		{% assign section1 = site.data.home.section1 %}
+		{% assign section5 = site.data.home.section5 %}
+		<div id="root">
+			<div class="announcement"><span>{{ header.announcement }}</span></div>
+			<div class="section section-1">
+				<h1 class="title">
+					<div class="logos">
+						<img src="{{ header.logo }}" class="icon msu" alt="MSU">
+						<img src="{{ header.smalllogo }}" class="icon" alt="UM">
+					</div>
+					{{ header.title }}
+				</h1>
+				<div class="info"><span>{{ section1.date }}</span>
+					<div class="separator"></div><span>{{ section1.time }}</span>
+					<div class="separator"></div><span>{{ section1.location }}</span>
+				</div>
+				<span class="description">
+					<br>{{ section1.description1 }}<br>
+					<b><a href="{{ section1.event_url }}">{{ section1.event_title }}</a></b>
+				</span>
+				<nav>
+					<ul>
+						{% for item in site.data.menu.main %}
+						<li>
+							<a {% if item.url==page.url %} aria-current="page" class="is-active" {% endif %} href="{{ item.url | relative_url }}">{{ item.name }}</a>
+						</li>
+						{% endfor %}
+					</ul>
+				</nav>
+			</div>
+			<div class="section section-3"><span class="subtitle">{{ page.title }}</span>
+				<div class="call">{{ content }}</div>
+			</div>
+			<span class="description" style="font-size: 1rem; margin-bottom: 2rem; color: rgb(136, 136, 136);"><b>{{ section5.organizer.title }}</b><br>
+				<span>
+					{% for items in section5.organizeritem %}
+					<a href="{{ items.url }}" target="_blank" rel="noopener noreferrer" style="color: inherit;">{{ items.name }}</a><br>{% endfor %}</span>
+				<br><br><b>{{ section5.committee.title }}</b><br>
+				<span>
+					{% for items in section5.committeeitem %}{{ items.name }}<br>{% endfor %}</span>
+			</span>
+			<div class="section section-5">
+				<h1 class="title smaller">{{ header.title }}</h1>
+				{% for items in section5.partnerImage %}
+					<img src="{{ items.image }}" class="icon" alt="{{ items.name }}">
+				{% endfor %}
+			</div>
+		</div>
+		<link rel="stylesheet" href="{{ "/assets/js/script.js" | relative_url }}" />
+		{% include tracking-footer.html %}
+	</body>
+
+</html>

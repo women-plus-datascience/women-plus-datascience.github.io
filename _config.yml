@@ -1,0 +1,40 @@
+# Site
+title: "ohgodno"
+description: "ohgodno"
+favicon: "images/favicon.ico"
+baseurl: ""
+disqus: ""
+email: "email@gmail.com"
+
+include: ["_pages"]
+permalink: /:year/:month/:day/:title/
+search: false # true or false for serach
+google_analytics: "UA-XXXXXXXX-X"
+#google_ad_client : ""
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  section:
+    output: true
+    permalink: /:title
+
+# Defaults
+defaults:
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
