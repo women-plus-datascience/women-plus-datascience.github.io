@@ -90,8 +90,8 @@ nav ul li a.is-active {
 .logos {
   position: absolute;
   display: flex;
-  flex-direction: column;
-  left: -4rem;
+  flex-direction: row;
+  left: -6rem;
   height: 100%;
   top: 0;
   justify-content: center;
@@ -102,6 +102,7 @@ nav ul li a.is-active {
   margin: 0;
   height: 3rem;
   width: 3rem;
+  margin-left: 0.5rem;
 }
 
 .logos .icon.msu {
