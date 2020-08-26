@@ -1,3 +1,3 @@
-# ohgodno.github.io
+# women-plus-datascience.github.io
 
-[Demo](http://ohgodno.github.io/)
+[Demo](http://women-plus-datascience.github.io/)
