@@ -11,48 +11,42 @@ section1:
   date: "Fall 2020"
   time: "Monthly Meetups"
   location: "Virtual, Hosted over Zoom"
-  description1: "Michigan State University &amp; University of Michigan invite you to their joint monthly meetup & webinar series for Fall 2020!"
+  description1: "Michigan State University &amp; University of Michigan invite you to their joint monthly webinar & meetup series for Fall 2020!"
   event_title: "EVENT REGISTRATION"
   event_url: "https://forms.gle/4RPELwFyeeHgJKUp6"
 
 # September Schedule
 section2:
-  title: "September"
+  title: "September 24"
   details:
-    - time: "September XX<br>9:15 — 10 AM"
-      event: "Keynote speaker: Person Name"
-    - time: "September XX <br>12 PM - 1 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "September XX <br>2 PM - 3 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "September XX <br>1 PM - 2 PM"
-      event: "Lightning Talk: Person Name"
-
+    - time: "3:30 — 4.15 PM"
+      event: "Keynote speaker: Hannaneh Hajishirazi"
+    - time: "4:15 PM - 4:45 PM"
+      event: "Lightning Talks: Person Name"
+    - time: "4:45 PM - 5:00 PM"
+      event: "Networking + Q&A"
+      
 # October Schedule
 section3:
-  title: "October"
+  title: "October 15"
   details:
-    - time: "October XX<br>9:15 — 10 AM"
-      event: "Keynote speaker: Person Name"
-    - time: "October XX <br>12 PM - 1 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "October XX <br>2 PM - 3 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "October XX <br>1 PM - 2 PM"
-      event: "Lightning Talk: Person Name"
+    - time: "3:30 — 4.15 PM"
+      event: "Keynote speaker: Alexandra Chouldechova"
+    - time: "4:15 PM - 4:45 PM"
+      event: "Lightning Talks: Person Name"
+    - time: "4:45 PM - 5:00 PM"
+      event: "Networking + Q&A"
       
 # November Schedule
 section4:
-  title: "November"
+  title: "November 19"
   details:
-    - time: "November XX<br>9:15 — 10 AM"
-      event: "Keynote speaker: Person Name"
-    - time: "November XX <br>12 PM - 1 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "November XX <br>2 PM - 3 PM"
-      event: "Lightning Talk: Person Name"
-    - time: "November XX <br>1 PM - 2 PM"
-      event: "Lightning Talk: Person Name"
+    - time: "3:30 — 4.15 PM"
+      event: "Keynote speaker: Maria Chikina"
+    - time: "4:15 PM - 4:45 PM"
+      event: "Lightning Talks: Person Name"
+    - time: "4:45 PM - 5:00 PM"
+      event: "Networking + Q&A"
 
 section5:
   organizer:
