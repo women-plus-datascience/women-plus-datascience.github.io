@@ -11,13 +11,12 @@ weight: 2
 - Submit your abstract through the [registration form](https://forms.gle/anafy6mPXBuJUyMk7).
 - Include a title, list of authors/presenters and their affiliations.
 - To recognize women and gender minority data scientists on your team, please indicate their roles in the project (securing research funding, project design, data collection, analysis and interpretation, writing, project management, project supervision).
-- We strongly encourage the women and gender minority members of your team to be the presenters of the talks or posters.
+- We strongly encourage the women and gender minority members of your team to be the presenters of the talks.
 - The main body of the abstract should be no more than 300 words and should include a brief summary of the research, methods, main results and impact.
 - Please do not include figures, tables or bibliography in the abstract.
 
 ### Talks
 The talks are strictly-timed to 6-minute presentations intended to further expand the Data Science community and spark discussion among participants. The intent is for these talks to provide a venue in support of new ideas and newcomers to our community. Short Talks are a great way to get early feedback on a work in progress, to demo a new tool or technique, and to find potential collaborators at other units/institutions.
-Talk presenters may elect to present a poster in conjunction with their talk to provide additional information to curious parties and help foster post-talk discussion.
 
 **NOTE**: If work being submitted has been accepted for publication, please share the citation.
 
@@ -28,8 +27,8 @@ Here are some short talk tips:
  4. Conclude with why your work matters!
  5. Preferably use more figures/flowcharts in place of full sentences and lots of text.
 
-## Submission Deadline for Posters and Talks
-Submissions for consideration as short talks and posters should use the provided [google form](https://forms.gle/anafy6mPXBuJUyMk7) and are limited to a maximum of 300 words. Abstracts should be submitted at least two weeks prior to the webinar. Abstracts will be evaluated with respect to their relevance to the W+DS audience and on space availability in the conference program. Abstracts do not receive peer-review feedback. Accepted abstracts will be made available on the conference website prior to the event unless otherwise noted, but they will not be included in the conference proceedings.
+## Submission Deadline for Talks
+Submissions for consideration as short talks should use the provided [google form](https://forms.gle/anafy6mPXBuJUyMk7) and are limited to a maximum of 300 words. Abstracts should be submitted at least **two weeks prior to the webinar**. Abstracts will be evaluated with respect to their relevance to the W+DS audience and on space availability in the conference program. Abstracts do not receive peer-review feedback. Accepted abstracts will be made available on the conference website prior to the event unless otherwise noted, but they will not be included in the conference proceedings.
 
 ## Review Criteria
 Talks submitted to W+DS should aim to do at least one of the following:
