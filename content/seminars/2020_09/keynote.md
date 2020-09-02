@@ -1,8 +1,3 @@
----
-layout: "page"
-title: "Keynote"
-weight: 4
----
 # Teaching computers to discover scientific knowledge by reading papers  
 
 Enormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). 
