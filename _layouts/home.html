@@ -28,7 +28,7 @@ layout: default
 		<div class="schedule">
 			{% for item in section4.details %}
 			<div class="row">
-				<span class="time">{{ item.time }}</span><span class="event">{{ item.event }} {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="registration">{% endif %} {% if item.aname %} {{ item.aname }} {% endif %}</a>{% if item.aposition %}{{ item.aposition }}{% endif %} </span>
+				<span class="time">{{ item.time }}</span><span class="event">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="registration"> {{ item.event }} </a> {% else %}{{ item.event }}{% endif %} </span>
 			</div>
 			{% endfor %}
 		</div>
