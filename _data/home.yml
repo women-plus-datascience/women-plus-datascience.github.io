@@ -20,7 +20,7 @@ section2:
   title: "September 24"
   details:
     - time: "3:30 — 4.15 PM"
-      event: "Keynote speaker: Hannaneh Hajishirazi"
+      event: "<a href="https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/keynote.md">Keynote speaker: Hannaneh Hajishirazi</a>"
       event_url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/keynote.md"
     - time: "4:15 - 4:45 PM"
       event: "Lightning Talks: Person1 </br> Person2"
