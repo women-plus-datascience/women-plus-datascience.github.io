@@ -1,8 +1,7 @@
 # Teaching computers to discover scientific knowledge by reading papers  
 
-Abstract: 
 Enormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). 
-Recent advances in deep learning algorithms, large-scale datasets, and industry-scale computational resources are spurring progress in many Natural Language Processing (NLP) tasks.
+Recent advances in deep learning algorithms, large-scale datasets, and industry-scale computational resources are spurring progress in many Natural Language Processing (NLP)tasks.
 Nevertheless, current models lack the ability to understand emergent domains such as scientific articles related to Covid-19 when training data are scarce.  
 This talk presents some of recent efforts in our lab to address the problem of textual comprehension and reasoning about scientific articles. 
 First, I discuss our multi-task learning approach for identifying and classifying entities and their relations in scientific articles. 
@@ -22,4 +21,4 @@ of data at large scale. Applications for these algorithms include question answe
 and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, 
 and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 
-![Hanna Hajishirzi, Ph.D.](https://homes.cs.washington.edu/~hannaneh/index.html)
+![](https://homes.cs.washington.edu/~hannaneh/index.html)
