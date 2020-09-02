@@ -21,4 +21,4 @@ of data at large scale. Applications for these algorithms include question answe
 and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, 
 and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 
-![](https://homes.cs.washington.edu/~hannaneh/index.html)
+![Image Text](https://github.com/women-plus-datascience/women-plus-datascience.github.io/raw/master/images/headshots/Hanna_Hajishirzi.png)
