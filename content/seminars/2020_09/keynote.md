@@ -10,7 +10,7 @@ Second, I introduce scientific claim verification, a new task to select abstract
 or refutes a given scientific claim, and to identify rationales justifying each decision. 
 I finally show that our claim verification system is able to identify plausible evidence for 70% claims relevant to COVID-19 on the CORD-19 corpus. 
 
-*Keywords:* Natural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction
+**Keywords:** Natural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction
 
 
 ## About the speaker
