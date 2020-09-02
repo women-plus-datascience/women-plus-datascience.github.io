@@ -14,11 +14,11 @@ I finally show that our claim verification system is able to identify plausible 
 
 
 ## About the speaker
-Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington 
+![Image Text](https://github.com/women-plus-datascience/women-plus-datascience.github.io/raw/master/images/headshots/Hanna_Hajishirzi.png) Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington 
 and a Research Fellow at the Allen Institute for AI. 
 Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms 
 of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, 
 and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, 
 and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 
-![Image Text](https://github.com/women-plus-datascience/women-plus-datascience.github.io/raw/master/images/headshots/Hanna_Hajishirzi.png)
+
