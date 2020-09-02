@@ -53,7 +53,7 @@ section5:
   organizer:
     title: "Organizers"
   organizeritem:
-    - name: "R-Ladies East Lansing ,"
+    - name: "R-Ladies East Lansing"
       url: "https://rladies-eastlansing.github.io/"
     - name: "Michigan Institute for Data Science"
       url: "https://midas.umich.edu"
