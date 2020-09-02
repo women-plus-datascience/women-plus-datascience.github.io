@@ -290,7 +290,7 @@ nav ul li a.is-active {
 @media(min-width: 1200px) {
   .section-parent {
     display: flex;
-    flex-direction: column;
+/*     flex-direction: column; */
   }
 }
 
