@@ -1,8 +1,8 @@
 main:
   - name: Home
     url: /
-  - name: Talk Guidelines
-    url: /talk-guidelines/
+#  - name: Talk Guidelines
+#    url: /talk-guidelines/
 #   - name: Sponsors
 #     url: /sponsors/
 #   - name: Other Information
