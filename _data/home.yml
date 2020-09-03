@@ -20,15 +20,17 @@ section2:
   title: "September 24"
   details:
     - time: "3:30 — 4.15 PM"
-      event: "Keynote speaker: Hannaneh Hajishirazi"
+      event: "Keynote: Hannaneh Hajishirazi"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/keynote.md"
     - time: "4:15 - 4:45 PM"
-      event: "Lightning Talks: Data Science Methodology
-            <br> Alyssa Travitz (UM)
+      event: "Lightning Talks: Data Science Methodology"
+      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/Lightning_Talks.md"
+    - time: " "
+      event: "Alyssa Travitz (UM)
             <br> Yiqi Wang (MSU)
             <br> Danielle Barnes (MSU)
             <br> Sarah Tymochko (MSU)"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/Lightning_Talks.md"
+     
     - time: "4:45 - 5:00 PM"
       event: "Networking + Q&A"
       
@@ -44,7 +46,7 @@ section3:
     - time: " "
       event: "Susan Parker (UM)
               <br> Robyn A Ferg (UM)"
-    - time: "4:45 - 5:00 PM"
+    - time: "4:45 PM"
       event: "Networking + Q&A"
       
 # November Schedule
