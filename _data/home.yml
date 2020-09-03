@@ -36,13 +36,15 @@ section2:
 section3:
   title: "October 15"
   details:
-    - time: "3:30 — 4.15 PM"
+    - time: "3:30 PM"
       event: "Keynote speaker: Alexandra Chouldechova"
-    - time: "4:15 - 4:45 PM"
-      event: "Lightning Talks: Data Science and Social Justice 
-              <br> Susan Parker (UM)
+    - time: "4:15 PM"
+      event: "Lightning Talks: Data Science and Social Justice"
+      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_10/Lightning_Talks.md"
+     - time: ""
+      event: "Susan Parker (UM)
               <br> Robyn A Ferg (UM)"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/_pages/test.md"
+      
     - time: "4:45 - 5:00 PM"
       event: "Networking + Q&A"
       
