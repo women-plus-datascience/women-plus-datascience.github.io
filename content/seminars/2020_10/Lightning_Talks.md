@@ -1,6 +1,11 @@
-Data Science and Social Justice (Oct 15)
-there aren’t enough submissions.  However, if we include lightning talks by women’s organizations (as a way to show DEI), then we have enough.
-#6 Susan Parker (UM): confirmed.
-Sarah Landes (UM).  Submitted as a poster about engaging middle school girls in STEM.
-Morgan Oneka (UM).  Submitted as a poster about Girls Who Code.
-#12 Robyn A Ferg (UM)
+# Lightning Talks: Data Science and Social Justice  
+
+## Estimating Gun Injury Location Using Natural Language Processing
+Susan Parker, Graduate Student (PhD), School of Public Health, University of Michigan 
+
+In recent decades, states passed over 300 laws governing where individuals carry firearms.1 These laws range from barring firearm carrying in “gun free zones” to expanding carrying to places accessible to the public such as hospitals, bars, and places of worship. Understanding where firearm injuries occur is therefore increasingly relevant to preventing firearm injury but difficult due to the lack of comprehensive gun injury data in the U.S.2 We employ natural language processing of medical record text to classify non-fatal gun injury locations and generate national estimates of where injuries occur. This analysis used natural language processing to classify missing locations. We vectorized words in narratives to 22,463 covariates indicating whether the word appears in an individual case using term frequency-inverse document frequency (TF-IDF) weighting. We then used 5-fold cross validation to fit a multinomial Lasso regression to categorize the location. Applying the fitted Lasso model to the test set verified the accuracy of out-of-sample predictions. We find that estimates of where non-fatal gun injuries occur using locations predicted from medical text suggest non-fatal firearm injuries occur outside the home more often than inside in contrast to the existing estimates. Where injury occurs informs important firearm policy questions, and medical record narratives offer valuable insight when combined with natural language processing techniques.   
+
+## Clustering-Based Topic Modeling for Short Texts
+Robyn A Ferg, Graduate Student (PhD), Statistics, University of Michigan  
+In a given corpus of tweets, there are likely to be many topics present. Some of these topics may be unrelated to the signal of interest, introducing noise and potentially bias. By correctly sorting tweets by topic, we hope to uncover signals of interest. In this talk we introduce a new clustering-based topic modeling algorithm to sort tweets into categories based on their content. First, distances between words are created based on how often two words appear together in the entire corpus. Then, distances between tweets are created using the distances between the words in the two tweets. A distance-based clustering algorithm is applied to the resulting distance matrices to reveal the latent topic for each tweet. This algorithm does not take advantage of any auxiliary information typically available in social media posts, and is therefore able to be applied to any corpus of short texts. We apply this algorithm to a validation set of Twitter users that are known to tweet about different topics.
+
