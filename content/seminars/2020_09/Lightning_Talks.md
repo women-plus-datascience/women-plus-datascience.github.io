@@ -11,15 +11,6 @@ Data science projects frequently involve complex file-based workflows acting on 
 
 Graph classification is an important task on graph-structured data with many real-world applications. The goal of graph classification task is to train a classifier using a set of training graphs. Recently, Graph Neural Networks (GNNs) have greatly advanced the task of graph classification. When building a GNN model for graph classification, the graphs in the training set are usually assumed to be identically distributed. However, in many real-world applications, graphs in the same dataset could have dramatically different structures, which indicates that these graphs are likely non-identically distributed. Therefore, in this paper, we aim to develop graph neural networks for graphs that are not non-identically distributed. Specifically, we propose a general non-IID graph neural network framework, i.e., Non-IID-GNN. Given a graph, Non-IID-GNN can adapt any existing graph neural network model to generate a sample-specific model for this graph. Comprehensive experiments on various graph classification benchmarks demonstrate the effectiveness of the proposed framework. We will release the code of the proposed framework upon the acceptance of the paper.   
 
-## TDA with Mapper - Improving Available Software  
-*Danielle Barnes, Graduate Student (PhD), Computational Mathematics, Science & Engineering, Michigan State University*  
-
-Mapper is a topological data analysis algorithm that has been used in a wide-variety of applications across different research domains allowing insight beyond statistical methods. Multiple open-source implementations are available, each with limitations for our type of analysis. 
-
-Our aim was to apply Mapper to large, high-dimensional data sets with the benefit of an easy to use graphical interface.  Using a seed grant award from the Center for Social and Business Analytics, we extended open-source packages to redevelop a prototype Mapper software we used extensively for data analysis to allow for easier, faster analysis with larger datasets.  Additionally, software features were enhanced to allow for easier predictive analysis using output from the Mapper algorithm.  
-
-Preliminary results show significant performance increases from the original prototype, with additional potential for parallel computation.This presentation will show performance benchmarks, example data analysis, and a demo of the Mapper software.  
-
 ## Detecting Bifurcations in Dynamical Systems with Topological Data Analysis  
 *Sarah Tymochko, Graduate Student (PhD), Computational Mathematics, Science & Engineering, Michigan State University* 
 
