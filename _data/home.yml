@@ -77,7 +77,8 @@ section5:
   committee:
     title: "Program Committee"
   committeeitem:
-    - name: "Liz Munch (MSU), Parisa Kordjamshidi (MSU), Dola Pathak (MSU)"
+    - name: "Liz Munch (MSU), Parisa Kordjamshidi (MSU), Dola Pathak (MSU)
+            <br> Contact us: women [dot] plus [dot] datascience [at] gmail.com"
 #    - name: "Marcy Harris (UM), Margaret Hedstrom (UM)."
   partnerImage:
     - name: "RLEL"
