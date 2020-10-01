@@ -16,7 +16,7 @@ Allegheny County Office of Children, Youth and Families.
 ## About the speaker
 <!--![Image Text](https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/images/headshots/alex_c.jpg){:class="img-responsive"} -->
 
-<img src="https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/images/headshots/alex_c.jpg" width="100" height="100"> Dr. Alexandra Chouldechova is the Estella Loomis McCandless Assistant Professor of Statistics and Public Policy at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. 
+<img src="https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/images/headshots/alex_c.jpg" width="200" height="250"> Dr. Alexandra Chouldechova is the Estella Loomis McCandless Assistant Professor of Statistics and Public Policy at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. 
 
 Her research investigates questions of algorithmic fairness and accountability in data-driven decision-making systems, with a domain focus on criminal justice and human services.
 Her work has been supported through funding from organizations including the Hillman Foundation, the MacArthur Foundation, and the NSF Program on Fairness in Artificial Intelligence 
