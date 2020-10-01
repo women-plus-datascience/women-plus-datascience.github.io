@@ -38,6 +38,7 @@ section3:
   details:
     - time: "3:30 PM"
       event: "Keynote: Alexandra Chouldechova"
+      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_10/keynote.md"
     - time: "4:15 PM"
       event: "Lightning Talks: Data Science in Social Justice"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_10/Lightning_Talks.md"
