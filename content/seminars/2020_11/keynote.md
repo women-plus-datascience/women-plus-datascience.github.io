@@ -10,7 +10,7 @@ knowledge to create interpretable  low-dimensional representations for genome sc
 **Keywords:** genomics, factor analysis, dimensionality reduction, prior information
 
 ## About the speaker  
-<img src="https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/images/headshots/alex_c.jpg" width="200" height="250"> [Dr. Maria Chikina](http://www.andrew.cmu.edu/user/achoulde/) is an assistant professor of Computational and
+<img src="https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/images/headshots/MariaChikina.jpg" width="200" height="250"> [Dr. Maria Chikina](http://www.andrew.cmu.edu/user/achoulde/) is an assistant professor of Computational and
 Systems Biology at the University of Pittsburgh School of Medicine. She received her BSc degree in Mathematics and Biology from the
 University of Chicago and a PhD in Computational Biology from Princeton University with Olga Troyanskaya as her advisor. She did her
 postdoctoral research with Stuart Sealfon at the Icahn School of Medicine at Mount Sinai. Her group works on diverse data problems
