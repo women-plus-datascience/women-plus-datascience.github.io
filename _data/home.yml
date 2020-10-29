@@ -57,7 +57,7 @@ section4:
       event: "Keynote: Maria Chikina"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/keynote.md"
     - time: "4:20 PM "
-    - event: "Lightning Talks: Data Science in Biomedical Research"
+      event: "Lightning Talks: Data Science in Biomedical Research"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/Lightning_Talks.md"
     - time: " "
       event: "Anna Yannakopoulos, MSU
