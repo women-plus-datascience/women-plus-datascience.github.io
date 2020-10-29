@@ -53,15 +53,17 @@ section3:
 section4:
   title: "November 19"
   details:
-    - time: "3:30 — 4.15 PM"
+    - time: "3:30 PM"
       event: "Keynote: Maria Chikina"
+      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/keynote.md"
+    - time: "4:20 PM "
     - event: "Lightning Talks: Data Science in Biomedical Research"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/Lightning_Talks.md"
     - time: " "
       event: "Anna Yannakopoulos, MSU
             <br> Kayla Johnson, MSU
             <br> Stephanie Hickey, MSU"
-    - time: "4:45 - 5:00 PM"
+    - time: "4:45 PM"
       event: "Networking + Q&A"
 
 section5:
