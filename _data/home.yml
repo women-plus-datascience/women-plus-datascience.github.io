@@ -17,57 +17,46 @@ section1:
 
 # January Schedule
 section2:
-  title: "February 18"
+  title: "January 18"
   details:
-    - time: "3:30 — 4.30 PM"
-      event: "Panel: Life After Grad School
-            <br> Panelists
-            <br> Yiqi Wang, MSU
-            <br> Sarah Tymochko, MSU"
+    - time: "3:30 PM"
+      event: "Panel: Life After Grad School"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/keynote.md"
-    - time: "4:15 - 4:35 PM"
-      event: "Lightning Talks: Data Science Methodology"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_09/Lightning_Talks.md"
     - time: " "
-      event: "Alyssa Travitz, UM
-            <br> Yiqi Wang, MSU
-            <br> Sarah Tymochko, MSU"
+      event: "Panelists:
+            <br> Dr. Sohini Roychowdhury, Fourth Brain
+            <br> Dr. Aimee Schwab, Creighton University
+            <br> Dr. Beth Duckles, Open Post Academics"
     - time: "4:35 - 5:00 PM"
-      event: "Networking + Q&A"
+      event: "Networking"
       
 # February Schedule
 section3:
   title: "February 18"
   details:
     - time: "3:30 PM"
-      event: "Keynote: Alexandra Chouldechova"
+      event: "Data Science Persuasion: Bridging policy and analytics"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_10/keynote.md"
-    - time: "4:20 PM"
-      event: "Lightning Talks: Data Science in Social Justice"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_10/Lightning_Talks.md"
     - time: " "
-      event: "Susan Parker, UM
-              <br> Robyn A. Ferg, UM
-              <br> Danielle Barnes, MSU"
-    - time: "4:45 PM"
-      event: "Networking + Q&A"
+      event: "Panelists:
+              <br> TBD
+              <br> TBD"
+    - time: "4:35 PM"
+      event: "Networking"
       
 # April Schedule
 section4:
   title: "April 15"
   details:
     - time: "3:30 PM"
-      event: "Keynote: Maria Chikina"
+      event: "Navigating the disciplinary boundaries"
       url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/keynote.md"
-    - time: "4:20 PM "
-      event: "Lightning Talks: Data Science in Biomedical Research"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/seminars/2020_11/Lightning_Talks.md"
     - time: " "
-      event: "Anna Yannakopoulos, MSU
-            <br> Kayla Johnson, MSU
-            <br> Stephanie Hickey, MSU"
-    - time: "4:45 PM"
-      event: "Networking + Q&A"
+      event: "Panelists
+            <br> Joyita Dutta, UMass
+            <br> TBD"
+    - time: "4:35 PM"
+      event: "Networking"
 
 section5:
   organizer:
