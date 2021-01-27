@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
 - name: Talk Guidelines
-#    url: /talk-guidelines/
+    url: /talk-guidelines/
 #   - name: Sponsors
 #     url: /sponsors/
 #   - name: Other Information
