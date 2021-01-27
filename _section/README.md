@@ -1,2 +1,2 @@
-Add new webpages here.
-Add webpage name and url to _data/menu.yml
+Add new webpages here.  
+To display in menu, add webpage name and url to _data/menu.yaml
