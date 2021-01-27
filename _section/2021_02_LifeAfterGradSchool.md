@@ -1,3 +1,9 @@
+---
+layout: "page"
+title: "Life After Grad School"
+permalink: "/lifeaftergradschool/"
+weight: 3
+---
 # Panel Discussion: Life After Grad School
 
 Hear from successful professionals about life as a data scientist in academia, industry, government, consulting, and non-profit organizations. 
