@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Life After Grad School"
-permalink: "/lifeaftergradschool/"
+permalink: "/life-after-gradschool/"
 weight: 3
 ---
 
