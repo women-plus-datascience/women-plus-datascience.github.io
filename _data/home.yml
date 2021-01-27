@@ -15,9 +15,9 @@ section1:
   event_title: "EVENT REGISTRATION"
   event_url: "https://forms.gle/4RPELwFyeeHgJKUp6"
 
-# January Schedule
+# February Schedule
 section2:
-  title: "January 18"
+  title: "February 18"
   details:
     - time: "3:30 PM"
       event: "Panel: Life After Grad School"
@@ -30,9 +30,9 @@ section2:
     - time: "4:35 - 5:00 PM"
       event: "Networking"
       
-# February Schedule
+# March Schedule
 section3:
-  title: "February 18"
+  title: "March 18"
   details:
     - time: "3:30 PM"
       event: "Data Science Persuasion: Bridging policy and analytics"
