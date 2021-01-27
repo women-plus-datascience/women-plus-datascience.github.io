@@ -4,6 +4,7 @@ title: "Data Science Careers"
 permalink: "/life-after-gradschool/"
 weight: 3
 ---
+  
 # Life after grad school  
 Hear from successful professionals about life as a data scientist in academia, industry, government, consulting, and non-profit organizations. 
 Attendees will learn about the work experiences and skills that contribute to success in each sphere.
