@@ -1,6 +1,8 @@
 main:
   - name: Home
     url: /
+  - name: Life After Grad School
+    url: /lifeaftergradschool/
 # - name: Talk Guidelines
 #    url: /talk-guidelines/
 #   - name: Sponsors
