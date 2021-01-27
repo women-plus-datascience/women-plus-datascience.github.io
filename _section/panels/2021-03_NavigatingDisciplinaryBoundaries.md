@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Life After Grad School"
+title: "Navigating Disciplinary Boundaries"
 permalink: "/navigating-disciplinary-boundaries/"
 weight: 3
 ---
