@@ -1,8 +1,7 @@
 # Panel Discussion: Life After Grad School
 
-This panel provides graduate students and postdocs an opportunity to hear from successful professionals about life as a data scientist in 
-academia, industry, government, consulting, and non-profit organizations. Attendees will learn about the work experiences and skills that 
-contribute to success in each sphere.
+Hear from successful professionals about life as a data scientist in academia, industry, government, consulting, and non-profit organizations. 
+Attendees will learn about the work experiences and skills that contribute to success in each sphere.
 
 
 **Keywords:** Data Science in Academia, Industry, Consulting
