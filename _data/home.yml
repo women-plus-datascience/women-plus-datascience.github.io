@@ -20,7 +20,7 @@ section2:
   title: "February 18"
   details:
     - time: "3:30 PM"
-      event: "Panel: Life After Grad School"
+      event: "Data Science Careers: Life after grad school"
       url: "https://women-plus-datascience.github.io/life-after-gradschool/"
     - time: " "
       event: "Panelists:
@@ -49,7 +49,7 @@ section4:
   title: "April 15"
   details:
     - time: "3:30 PM"
-      event: "Navigating the disciplinary boundaries"
+      event: "Data Science Collaboration: Navigating disciplinary boundaries"
       url: "https://women-plus-datascience.github.io/navigating-disciplinary-boundaries/"
     - time: " "
       event: "Panelists
