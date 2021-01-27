@@ -21,7 +21,8 @@ section2:
   details:
     - time: "3:30 PM"
       event: "Panel: Life After Grad School"
-      url: "https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/panels/2021_02_LifeAfterGradSchool.md"
+      url: "https://women-plus-datascience.github.io/lifeaftergradschool/"
+      #"https://github.com/women-plus-datascience/women-plus-datascience.github.io/blob/master/content/panels/2021_02_LifeAfterGradSchool.md"
     - time: " "
       event: "Panelists:
             <br> Dr. Sohini Roychowdhury, Fourth Brain
