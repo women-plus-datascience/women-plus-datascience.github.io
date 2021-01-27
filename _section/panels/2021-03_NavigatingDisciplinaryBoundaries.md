@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Life After Grad School"
-permalink: "/navigatingdisciplinaryboundaries"
+permalink: "/navigating-disciplinary-boundaries/"
 weight: 3
 ---
 
