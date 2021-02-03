@@ -14,6 +14,6 @@ Interdisciplinarity is necessary to address issues that are too complex to be de
 
 ## About the panelists
 
-Arti Garg is Head of Advanced AI Solutions & Technologies in the AI Strategy & Solutions Team at Hewlett Packard Enterprise (HPE). Previously she held data science leadership roles in a number of sectors including renewable energy, industrial products, and data center operations. In the past, Dr. Garg worked for the White House Budget Office where she oversaw R&D investments at the Department of Energy. She holds a PhD in Physics from Harvard University and an MS in Aeronautical & Astronautical Engineering from Stanford University.
+![Image Text](https://github.com/women-plus-datascience/women-plus-datascience.github.io/raw/master/images/headshots/Arti_Garg.jpeg)Arti Garg is Head of Advanced AI Solutions & Technologies in the AI Strategy & Solutions Team at Hewlett Packard Enterprise (HPE). Previously she held data science leadership roles in a number of sectors including renewable energy, industrial products, and data center operations. In the past, Dr. Garg worked for the White House Budget Office where she oversaw R&D investments at the Department of Energy. She holds a PhD in Physics from Harvard University and an MS in Aeronautical & Astronautical Engineering from Stanford University.
 
 
