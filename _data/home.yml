@@ -39,8 +39,8 @@ section3:
       url: "https://women-plus-datascience.github.io/data-science-persuasion/"
     - time: " "
       event: "Panelists:
-              <br> TBD
-              <br> TBD"
+              <br> Anne-Marie Nunez, The Ohio State University
+              <br> Lourdes Vera, Northeastern University"
     - time: "4:35 PM"
       event: "Networking"
       
@@ -54,7 +54,8 @@ section4:
     - time: " "
       event: "Panelists
             <br> Arti Garg, Advanced AI Solutions & Technologies, HPE
-            <br> TBD"
+            <br> Joyita Dutta, University of Massachusetts Lowell (UML)
+            <br> Neha Pankow, National Science Foundation (NSF)"
     - time: "4:35 PM"
       event: "Networking"
 
