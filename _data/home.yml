@@ -54,8 +54,9 @@ section4:
     - time: " "
       event: "Panelists:
             <br> Arti Garg, Advanced AI Solutions & Technologies, HPE
-            <br> Joyita Dutta, University of Massachusetts Lowell (UML)
-            <br> Neha Pankow, National Science Foundation (NSF)"
+            <br> Joyita Dutta, University of Massachusetts Lowell
+            <br> Neha Pankow, National Science Foundation
+            <br> Chen Sagiv, DeePathology Ltd."
     - time: "4:35 PM"
       event: "Networking"
 
